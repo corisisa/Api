@@ -1,9 +1,9 @@
 {
     "mysql":{
-        "host": "bp4bdifl1bbswz5uwkst-mysql.services.clever-cloud.com",
-        "port": 21116,
-        "user": "u0dtqllt1a3adx2y",
-        "password": "B486SFVdu6pL2vJ7AmR",
-        "database": "bp4bdifl1bbswz5uwkst"
+        "host": "bnafpzzqfinltesvuxds-mysql.services.clever-cloud.com",
+        "port": 21249,
+        "user": "uoc4jg4hwutobv32",
+        "password": "2ip37pNXl6V4VZ5nVC2",
+        "database": "bnafpzzqfinltesvuxds"
     }
 }
